@@ -1,0 +1,46 @@
+.logo{
+    height:50px;
+    width: 70px;
+    padding-left: 1%;
+    border-radius: 5px;
+}
+.main-div{
+    display: flex;
+    justify-content: space-between;
+}
+.first-p{
+    font-size: larger;
+    margin-left: 20px;
+}
+.second-p{
+    margin-left: 20px;
+    font-size: larger;
+}
+.third-p{
+    margin-left: 20px;
+    font-size: larger;
+}
+.image img{
+    border-radius: 7px;
+    height: 400px;
+    width: 300px;
+}
+.btm div{
+    display:flex;
+    justify-content: space-between;
+}
+.products{
+    padding-left: 50px;
+    padding-top: 30px;
+    display:flex;
+}
+.price{
+   font-weight: 700;
+   font: size 17px;
+}
+.second-div{
+    padding-left: 20px;
+}
+.add-to-cart{
+    font-size: 17px;
+}
